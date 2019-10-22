@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "default": {
+      "request": {
+        "method": "GET"
+      },
+      "response": {
+        "strategy": "first-found",
+        "latency": 0,
+        "status": 200
+      }
+    },
+    "requests": [
+	    "mappings/store.yaml"
+    ]
+  },
+  "server": {
+    "port": 7010
+  },
+  "stubs": "stubs/",
+  "logs": {
+    "path": "logs/"
+  }
+}

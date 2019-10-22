@@ -1,0 +1,38 @@
+{
+  "storeFilterMatch": true,
+  "stores": [
+    {
+      "storeTypeId": 1,
+      "name": "Marina",
+      "photo": "https://encontrareudora.blob.core.windows.net/dev/foto-perfil/marina.jpg",
+      "phone": "19981021674",
+      "eudoraCode": "12345",
+      "googleBusinessLink": "https://goo.gl/maps/pebts6FL7oJBREYd9",
+      "address": "R. Vicente Stancato, 175 - Chácara Santa Margarida, Campinas - SP",
+      "longitude": -47.071664,
+      "latitude": -22.795257
+    },
+    {
+      "storeTypeId": 2,
+      "name": "Ronaldo",
+      "photo": "https://encontrareudora.blob.core.windows.net/dev/foto-perfil/marina.jpg",
+      "phone": "19981021674",
+      "eudoraCode": "12345",
+      "googleBusinessLink": "https://goo.gl/maps/pebts6FL7oJBREYd9",
+      "address": "R. Vicente Stancato, 175 - Chácara Santa Margarida, Campinas - SP",
+      "longitude": -47.071664,
+      "latitude": -22.795257
+    },
+    {
+      "storeTypeId": 1,
+      "name": "Teste",
+      "photo": "https://encontrareudora.blob.core.windows.net/dev/foto-perfil/marina.jpg",
+      "phone": "19981021674",
+      "eudoraCode": "12345",
+      "googleBusinessLink": "https://goo.gl/maps/pebts6FL7oJBREYd9",
+      "address": "R. Vicente Stancato, 175 - Chácara Santa Margarida, Campinas - SP",
+      "longitude": -47.071664,
+      "latitude": -22.795257
+    }
+  ]
+}

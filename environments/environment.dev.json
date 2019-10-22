@@ -1,0 +1,4 @@
+{
+  "_comment": "PUT THE BASE URL HERE",
+  "baseStore": "http://localhost:7010"
+}
