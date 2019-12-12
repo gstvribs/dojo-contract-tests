@@ -4,35 +4,35 @@
     {
       "storeTypeId": 1,
       "name": "Marina",
-      "photo": "https://encontrareudora.blob.core.windows.net/dev/foto-perfil/marina.jpg",
-      "phone": "19981021674",
-      "eudoraCode": "12345",
+      "photo": "marina.jpg",
+      "phone": "11981021674",
+      "eudoraCode": "111",
       "googleBusinessLink": "https://goo.gl/maps/pebts6FL7oJBREYd9",
       "address": "R. Vicente Stancato, 175 - Chácara Santa Margarida, Campinas - SP",
-      "longitude": -47.071664,
-      "latitude": -22.795257
+      "latitude": -22.926406,
+      "longitude": -47.0418667
     },
     {
       "storeTypeId": 2,
       "name": "Ronaldo",
-      "photo": "https://encontrareudora.blob.core.windows.net/dev/foto-perfil/marina.jpg",
-      "phone": "19981021674",
-      "eudoraCode": "12345",
-      "googleBusinessLink": "https://goo.gl/maps/pebts6FL7oJBREYd9",
-      "address": "R. Vicente Stancato, 175 - Chácara Santa Margarida, Campinas - SP",
-      "longitude": -47.071664,
-      "latitude": -22.795257
+      "photo": "ronaldo.jpg",
+      "phone": "51881021674",
+      "eudoraCode": "222",
+      "googleBusinessLink": "https://goo.gl/maps/G2kkEYRBXntfbjbY6",
+      "address": "Av. Dr. Antônio Carlos Sáles Júnior - Jardim Proenca I, Campinas - SP, 13100-410",
+      "latitude": -22.795257,
+      "longitude": -47.071664
     },
     {
-      "storeTypeId": 1,
-      "name": "Teste",
-      "photo": "https://encontrareudora.blob.core.windows.net/dev/foto-perfil/marina.jpg",
-      "phone": "19981021674",
+      "storeTypeId": 3,
+      "name": "Amanda",
+      "photo": "amanda.jpg",
+      "phone": "11881021674",
       "eudoraCode": "12345",
-      "googleBusinessLink": "https://goo.gl/maps/pebts6FL7oJBREYd9",
-      "address": "R. Vicente Stancato, 175 - Chácara Santa Margarida, Campinas - SP",
-      "longitude": -47.071664,
-      "latitude": -22.795257
+      "googleBusinessLink": "https://goo.gl/maps/Npgr8mudtxXepxN29",
+      "address": "Bosque das Palmeiras, Campinas - State of São Paulo",
+      "latitude": -22.815501,
+      "longitude": -47.045980
     }
   ]
 }
