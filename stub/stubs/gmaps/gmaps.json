@@ -1,0 +1,81 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "13045-085",
+          "short_name": "13045-085",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Jardim São Vicente",
+          "short_name": "Jardim São Vicente",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Campinas",
+          "short_name": "Campinas",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "State of São Paulo",
+          "short_name": "SP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brazil",
+          "short_name": "BR",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Jardim São Vicente, Campinas - State of São Paulo, 13045-085, Brazil",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -22.947632,
+            "lng": -47.0243496
+          },
+          "southwest": {
+            "lat": -22.9482431,
+            "lng": -47.0253263
+          }
+        },
+        "location": {
+          "lat": -22.9478807,
+          "lng": -47.0247853
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -22.9465885697085,
+            "lng": -47.0234889697085
+          },
+          "southwest": {
+            "lat": -22.9492865302915,
+            "lng": -47.02618693029149
+          }
+        }
+      },
+      "place_id": "ChIJXfb9LITOyJQRYdgqeV8FrBA",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "status": "OK"
+}

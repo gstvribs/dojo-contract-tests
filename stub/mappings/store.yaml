@@ -8,7 +8,7 @@
             access-control-allow-methods: 'GET,POST'
             access-control-allow-headers: 'content-type'
             content-type: application/json
-
+            
 -  request:
       method: GET
       url: /api/v1/Store

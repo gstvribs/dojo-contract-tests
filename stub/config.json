@@ -11,7 +11,7 @@
       }
     },
     "requests": [
-	    "mappings/store.yaml"
+      "mappings/store.yaml"
     ]
   },
   "server": {
